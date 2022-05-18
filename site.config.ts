@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Self Page of Ranxiang Ge',
+  domain: 'https://www.notion.so/nunopesikin/Self-Page-of-Ranxiang-Ge-e51de926f5894bcd923fa9df3148dc6c',
+  author: 'Nuno Pesikin',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
